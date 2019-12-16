@@ -80,7 +80,7 @@ textarea{
 nav{
     padding: 10px;
     text-align: left;
-    background: url("img/header-achtergrond.jpg");
+    background: url("../img/header-achtergrond.jpg");
 }
 nav a{
     color: white;
